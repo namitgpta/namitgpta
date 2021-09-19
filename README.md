@@ -1,12 +1,9 @@
-## Hello, Trespasser🙏
-
-## I'm Namit Gupta - aka namitgpta
-
----
+<h1> Hello, Trespasser🙏<br />
+I'm Namit Gupta - aka namitgpta </h1>
 
 <!-- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/> -->
 
-I'm a Techy Geek specializing in Computer Science & Information Security.
+### I'm a Techy Geek specializing in Computer Science & Information Security.
 
 ![](https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv)
 
