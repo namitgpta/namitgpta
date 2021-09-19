@@ -1,6 +1,8 @@
-# Hello, Trespasser🙏
+## Hello, Trespasser🙏
 
-# I'm Namit Gupta - aka namitgpta
+## I'm Namit Gupta - aka namitgpta
+
+---
 
 <!-- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/> -->
 
@@ -8,7 +10,7 @@ I'm a Techy Geek specializing in Computer Science & Information Security.
 
 ![](https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv)
 
-## Connect with me
+### Connect with me
 
 <p align="center">
   <a href="mailto:namitg677@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -19,7 +21,7 @@ I'm a Techy Geek specializing in Computer Science & Information Security.
   <a href="https://www.instagram.com/namit.gupta24/" target="_blank"><img height="25" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
-## My tech stack
+### My tech stack
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
@@ -32,7 +34,7 @@ I'm a Techy Geek specializing in Computer Science & Information Security.
 ![Cyber Security](https://img.shields.io/badge/Cyber_Security-3C3C3D?logo=security&logoColor=black)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## Technologies I'm learning
+### Technologies I'm learning
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
 ![Nodejs](https://img.shields.io/badge/Nodejs-43853D?logo=node.js&logoColor=white)
