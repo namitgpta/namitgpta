@@ -40,11 +40,3 @@ I'm Namit Gupta - aka namitgpta </h1>
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws)
 
 ![](https://github-readme-stats.vercel.app/api?username=namitgpta&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-
----
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
