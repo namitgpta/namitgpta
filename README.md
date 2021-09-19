@@ -39,6 +39,6 @@ I'm Namit Gupta - aka namitgpta </h1>
 ![Linux](https://img.shields.io/badge/Linux-00000F?logo=linux&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws)
 
-![](https://github-readme-stats-namitgpta.vercel.app/api?username=namitgpta&count_private=true&&show_icons=true&&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&&theme=radical)
+![](https://github-readme-stats-namitgpta.vercel.app/api?username=namitgpta&count_private=true&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
-<!-- [![Top Langs](https://github-readme-stats-namitgpta.vercel.app/api/top-langs/?username=namitgpta&exclude_repo=github-readme-stats&layout=compact&count_private=true&theme=radical)](https://github.com/namitgpta/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats-namitgpta.vercel.app/api/top-langs/?username=namitgpta&exclude_repo=github-readme-stats&layout=compact&count_private=true&title_color=ffffff&text_color=daf7dc&bg_color=151515)](https://github.com/namitgpta/github-readme-stats) -->
