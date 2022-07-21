@@ -32,10 +32,10 @@ I'm Namit Gupta - aka namitgpta </h1>
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Nodejs](https://img.shields.io/badge/Nodejs-43853D?logo=node.js&logoColor=white)
 ![Expressjs](https://img.shields.io/badge/Expressjs-43853D?logo=express.js&logoColor=white)
-![Reactjs](https://img.shields.io/badge/Reactjs-43853D?logo=react.js&logoColor=white)
 
 ### Technologies I'm learning
 
+![Reactjs](https://img.shields.io/badge/Reactjs-43853D?logo=react.js&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-00000F?logo=linux&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws)
