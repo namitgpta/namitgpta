@@ -30,11 +30,12 @@ I'm Namit Gupta - aka namitgpta </h1>
 ![Android](https://img.shields.io/badge/Android-239120?logo=android&logoColor=black)
 ![Cyber Security](https://img.shields.io/badge/Cyber_Security-3C3C3D?logo=security&logoColor=black)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Nodejs](https://img.shields.io/badge/Nodejs-43853D?logo=node.js&logoColor=white)
+![Expressjs](https://img.shields.io/badge/Expressjs-43853D?logo=express.js&logoColor=white)
+![Reactjs](https://img.shields.io/badge/Reactjs-43853D?logo=react.js&logoColor=white)
 
 ### Technologies I'm learning
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
-![Nodejs](https://img.shields.io/badge/Nodejs-43853D?logo=node.js&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-00000F?logo=linux&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws)
