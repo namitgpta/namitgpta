@@ -38,7 +38,6 @@ I'm Namit Gupta - aka namitgpta </h1>
 ![Reactjs](https://img.shields.io/badge/Reactjs-43853D?logo=react&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-00000F?logo=linux&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws)
-![Web3.0](https://img.shields.io/badge/Web3.0-00000F?logo=hyperledger&logoColor=white)
 
 ![](https://github-readme-stats-namitgpta.vercel.app/api?username=namitgpta&count_private=true&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
