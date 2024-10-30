@@ -13,8 +13,8 @@ I'm Namit Gupta - aka namitgpta </h1>
   <a href="mailto:namitg677@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/namitgpta/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
   <!-- <a href="https://unnati2000.github.io" target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a> -->
-  <a href="https://namitgupta.tech/" target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-  <a href="https://twitter.com/namitg677" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+  <a href="https://namitgupta.netlify.app/" target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://twitter.com/namitgpt" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   <a href="https://www.instagram.com/namitgpta/" target="_blank"><img height="25" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
@@ -40,6 +40,7 @@ I'm Namit Gupta - aka namitgpta </h1>
 ![Linux](https://img.shields.io/badge/Linux-00000F?logo=linux&logoColor=white)
 ![Computer Architecture](https://img.shields.io/badge/Computer_Architecture-3C3C3D?logo=security&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C)
+![ARM Assembly](https://img.shields.io/badge/ARM_Assembly-232F3E?logoColor=white)
 
 ![](https://github-readme-stats-namitgpta.vercel.app/api?username=namitgpta&count_private=true&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
